@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Koyal!
 
-<!--
-**Koyalpal/Koyalpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 Homemaker & Full-Time Parent | 🧑‍💻 Learning Full-Stack Development  
+💻 Focused on Python, Flask, SQL, and JavaScript  
+🎨 I love painting with acrylic colors  
+🌱 Currently building portfolio projects and REST APIs  
+📫 Reach me: koyal.anjali.dutta@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack:
+- 💻 Python, Flask, SQL, HTML/CSS
+- 🌐 GitHub Pages
+
+---
+
+### 📌 Projects Coming Soon:
+- Flask Portfolio Website
+- REST API for Movie Booking
+- JavaScript Mini Projects
